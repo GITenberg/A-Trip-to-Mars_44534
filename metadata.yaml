@@ -1,0 +1,39 @@
+_repo: A-Trip-to-Mars_44534
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Groome, William H. C.
+    aliases:
+    - Groome, W. H. C. (William H. C.)
+    - Groome, W.H.C.
+    gutenberg_agent_id: '9731'
+    url: http://www.gutenberg.org/2009/agents/9731
+covers:
+- cover_type: archival
+  image_path: 44534-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Aubrey, Frank
+    aliases:
+    - Atkins, Frank
+    - Ash, Fenton
+    - Atkins, Francis Henry
+    birthdate: 1847
+    deathdate: 1927
+    gutenberg_agent_id: '42493'
+    url: http://www.gutenberg.org/2009/agents/42493
+description: ''
+gutenberg_issued: '2013-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44534'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PR'
+- !lcsh 'Mars (Planet) -- Fiction'
+title: A Trip to Mars
+url: http://www.gutenberg.org/ebooks/44534
